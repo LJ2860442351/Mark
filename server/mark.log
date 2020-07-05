@@ -1,0 +1,117 @@
+2020/06/07 12:01:13 main.go:186: Server abort! Cause:test log file 
+2020/06/07 12:01:13 main.go:188: start successfully!!!
+2020/06/07 12:01:13 main.go:189: Mark webserver is starting........port:8010
+2020/06/07 12:01:13 main.go:190: Log print is Server . on Http:8010
+2020/06/07 12:08:22 main.go:194: Server abort! Cause:test log file 
+2020/06/07 12:09:52 main.go:194: Server abort! Cause:mark log file 
+2020/06/07 12:09:52 main.go:195: start successfully!!!
+2020/06/07 12:09:52 main.go:196: Mark webserver is starting........port:8010
+2020/06/07 12:09:52 main.go:197: Log print is Server . on Http:8010
+2020/06/07 12:13:31 main.go:195: Server abort! Cause:mark log file 
+2020/06/07 12:13:31 main.go:196: start successfully!!!
+2020/06/07 12:13:31 main.go:197: Mark webserver is starting........port:8010
+2020/06/07 12:13:31 main.go:198: Log print is Server . on Http:8010
+2020/06/07 12:14:23 main.go:195: Server abort! Cause:mark log file 
+2020/06/07 12:14:23 main.go:196: start successfully!!!
+2020/06/07 12:14:23 main.go:197: Mark webserver is starting........port:8010
+2020/06/07 12:14:23 main.go:198: Log print is Server . on Http:8010
+2020/06/07 12:20:52 main.go:194: Server abort! Cause:mark log file 
+2020/06/07 12:20:52 main.go:195: start successfully!!!
+2020/06/07 12:20:52 main.go:196: Mark webserver is starting........port:8010
+2020/06/07 12:20:52 main.go:197: Log print is Server . on Http:8010
+2020/06/07 12:24:55 main.go:194: Server abort! Cause:mark log file 
+2020/06/07 12:24:55 main.go:195: start successfully!!!
+2020/06/07 12:24:55 main.go:196: Mark webserver is starting........port:8010
+2020/06/07 12:24:55 main.go:197: Log print is Server . on Http:8010
+2020/06/08 16:44:04 main.go:194: Server abort! Cause:mark log file 
+2020/06/08 16:44:04 main.go:195: start successfully!!!
+2020/06/08 16:44:04 main.go:196: Mark webserver is starting........port:8010
+2020/06/08 16:44:04 main.go:197: Log print is Server . on Http:8010
+2020/06/09 11:47:14 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 11:47:14 main.go:195: start successfully!!!
+2020/06/09 11:47:14 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 11:47:14 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:12:18 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:12:18 main.go:195: start successfully!!!
+2020/06/09 12:12:18 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:12:18 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:28:18 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:28:18 main.go:195: start successfully!!!
+2020/06/09 12:28:18 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:28:18 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:28:44 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:28:44 main.go:195: start successfully!!!
+2020/06/09 12:28:44 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:28:44 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:31:01 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:31:01 main.go:195: start successfully!!!
+2020/06/09 12:31:01 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:31:01 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:32:02 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:32:02 main.go:195: start successfully!!!
+2020/06/09 12:32:02 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:32:02 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:41:10 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:41:10 main.go:195: start successfully!!!
+2020/06/09 12:41:10 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:41:10 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:42:40 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:42:40 main.go:195: start successfully!!!
+2020/06/09 12:42:40 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:42:40 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:44:12 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:44:12 main.go:195: start successfully!!!
+2020/06/09 12:44:12 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:44:12 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:49:40 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:49:40 main.go:195: start successfully!!!
+2020/06/09 12:49:40 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:49:40 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:50:19 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:50:19 main.go:195: start successfully!!!
+2020/06/09 12:50:19 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:50:19 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:50:54 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:50:54 main.go:195: start successfully!!!
+2020/06/09 12:50:54 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:50:54 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:51:21 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:51:21 main.go:195: start successfully!!!
+2020/06/09 12:51:21 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:51:21 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:53:22 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:53:22 main.go:195: start successfully!!!
+2020/06/09 12:53:22 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:53:22 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:53:34 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:53:34 main.go:195: start successfully!!!
+2020/06/09 12:53:34 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:53:34 main.go:197: Log print is Server . on Http:8010
+2020/06/09 12:56:31 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 12:56:31 main.go:195: start successfully!!!
+2020/06/09 12:56:31 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 12:56:31 main.go:197: Log print is Server . on Http:8010
+2020/06/09 13:01:33 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 13:01:33 main.go:195: start successfully!!!
+2020/06/09 13:01:33 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 13:01:33 main.go:197: Log print is Server . on Http:8010
+2020/06/09 15:03:19 main.go:194: Server abort! Cause:mark log file 
+2020/06/09 15:03:19 main.go:195: start successfully!!!
+2020/06/09 15:03:19 main.go:196: Mark webserver is starting........port:8010
+2020/06/09 15:03:19 main.go:197: Log print is Server . on Http:8010
+2020/06/12 08:05:22 main.go:194: Server abort! Cause:mark log file 
+2020/06/12 08:05:22 main.go:195: start successfully!!!
+2020/06/12 08:05:22 main.go:196: Mark webserver is starting........port:8010
+2020/06/12 08:05:22 main.go:197: Log print is Server . on Http:8010
+2020/06/12 08:08:38 main.go:194: Server abort! Cause:mark log file 
+2020/06/12 08:08:38 main.go:195: start successfully!!!
+2020/06/12 08:08:38 main.go:196: Mark webserver is starting........port:8010
+2020/06/12 08:08:38 main.go:197: Log print is Server . on Http:8010
+2020/06/12 08:58:46 main.go:194: Server abort! Cause:mark log file 
+2020/06/12 08:58:46 main.go:195: start successfully!!!
+2020/06/12 08:58:46 main.go:196: Mark webserver is starting........port:8010
+2020/06/12 08:58:46 main.go:197: Log print is Server . on Http:8010
+2020/06/14 09:34:53 main.go:194: Server abort! Cause:mark log file 
+2020/06/14 09:34:53 main.go:195: start successfully!!!
+2020/06/14 09:34:53 main.go:196: Mark webserver is starting........port:8010
+2020/06/14 09:34:53 main.go:197: Log print is Server . on Http:8010
